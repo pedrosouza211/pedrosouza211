@@ -12,11 +12,11 @@
 - 😄 Pronouns: Ele/Dele 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical" />
+<a href="https://github.com/pedrosouza211github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrosouza211&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=radical" />
+<a href="https://github.com/pedrosouza211/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosouza211&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 <div>
