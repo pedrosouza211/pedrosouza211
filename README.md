@@ -7,7 +7,7 @@
 
 
 - 🔭 Atualmente estou em busca de estágio para vagas back-end
-- 🌱 Atualmente estou estudando C# com Framework DOTNET 
+- 🌱 Atualmente estou estudando C# com Framework .NET 
 - Para Entrar em contrato: phsferreira06@gmail.com 
 - 😄 Pronouns: Ele/Dele 
 
