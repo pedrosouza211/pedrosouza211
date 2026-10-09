@@ -6,7 +6,7 @@
           
 
 
-- 🔭 Atualmente estou em busca de estágio para vagas back-end
+- 🔭 Atualmente estou em busca de estágio para vagas de Desenvolvimento e Análise de Dados
 - 🌱 Atualmente estou estudando Python, SQL e PowerBi
 - Para Entrar em contrato: phsferreira06@gmail.com 
 - 😄 Pronouns: Ele/Dele 
